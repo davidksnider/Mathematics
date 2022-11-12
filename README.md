@@ -1,3 +1,3 @@
 # Mathematics
-A collection of research and expository presentations.
-For an optimal viewing experience, download pdfs and use Adobe Acrobat to present. This takes advantage of the fact that some presentations make use of Beamer's \pause feature.
+A collection of presentations and reports.
+PDFs may be viewed within GitHub. For an optimal viewing experience of presentations, download PDFs and use Adobe Acrobat. This takes advantage of the fact that the presentations make use of Beamer's \pause feature.
